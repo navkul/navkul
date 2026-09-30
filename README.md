@@ -2,6 +2,4 @@
 
 [@Grepr](https://www.grepr.ai/) Real-time ML systems - Prev 2x. SWE Intern 
 
-CS, Economics - Boston University 
-
-[🚀](https://arnavkulkarni.com/)
+CS, Economics - Boston University
